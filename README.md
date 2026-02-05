@@ -2,17 +2,13 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
+</div>
+
+###
+
 <p align="left">## 👨‍💻 About Me<br><br>Hi, I'm **Najib** — a passionate Flutter developer dedicated to building beautiful, scalable, and user-friendly mobile applications.  <br>I enjoy turning ideas into functional products with clean architecture, efficient state management, and a focus on great user experience.</p>
-
-###
-
-<br clear="both">
-
-<h2 align="left">Flutter Devloper</h2>
-
-###
-
-<h2 align="left">I code with</h2>
 
 ###
 
