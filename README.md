@@ -12,10 +12,6 @@
 
 ###
 
-<p align="left">✨ Creating Flutter apps since 2024  <br>📚 I'm currently exploring advanced Flutter architecture (MVVM, state management, clean code)  <br>🎯 Goals: Build beautiful, scalable, and user‑friendly mobile applications with Flutter  <br>🎲 Fun fact: I enjoy experimenting with magical UI animations in Flutter</p>
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
@@ -39,6 +35,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 </div>
+
+###
+
+<p align="left">✨ Creating Flutter apps since 2024  <br>📚 I'm currently exploring advanced Flutter architecture (MVVM, state management, clean code)  <br>🎯 Goals: Build beautiful, scalable, and user‑friendly mobile applications with Flutter  <br>🎲 Fun fact: I enjoy experimenting with magical UI animations in Flutter</p>
 
 ###
 
