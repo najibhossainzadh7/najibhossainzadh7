@@ -1,5 +1,6 @@
 <h1 align="left">Hi there👋</h1>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=najibhossainzadh7&label=Profile%20views&color=0e75b6&style=flat" alt="najibhossainzadh7
+" /> </p>
 ###
 
 <div align="center">
