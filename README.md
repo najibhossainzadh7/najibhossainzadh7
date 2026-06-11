@@ -81,12 +81,11 @@ I enjoy creating clean architectures, solving complex problems, and turning idea
 
 ## 👨‍💻 About Me
 
+- 🌐 Building modern web development with React & Next.js
 - 📱 Building cross-platform applications with Flutter
-- 🌐 Learning modern web development with React & Next.js
-- ⚙️ Interested in Backend Development and API Design
-- 🚀 Passionate about Software Engineering and Startups
-- 📚 Computer Science Student
-- 💡 Always learning new technologies and best practices
+- ⚙️ Backend Development and API Design
+- 📚 Computer Science 
+- 💡 Always learning new technologies
 
 ---
 
