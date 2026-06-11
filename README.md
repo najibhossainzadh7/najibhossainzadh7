@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">## 👨‍💻 About Me<br><br>Hi, I'm **Najib** — a passionate Flutter developer dedicated to building beautiful, scalable, and user-friendly mobile applications.  <br>I enjoy turning ideas into functional products with clean architecture, efficient state management, and a focus on great user experience.</p>
+<p align="left">## 👨‍💻 About Me<br><br>Hi, I'm **Najib** — a passionate Flutter developer dedicated to building beautiful, scalable, and user-friendly mobile and web applications.  <br>I enjoy turning ideas into functional products with clean architecture, efficient state management, and a focus on great user experience.</p>
 
 ###
 
