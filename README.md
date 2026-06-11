@@ -89,13 +89,6 @@ I enjoy creating clean architectures, solving complex problems, and turning idea
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=najibhossainzadh7&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najibhossainzadh7&layout=compact&theme=tokyonight" height="165" />
-</p>
-
 ---
 
 ## 🌐 Connect With Me
